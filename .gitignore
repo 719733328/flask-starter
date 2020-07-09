@@ -1,7 +1,7 @@
 .DS_Store
 
 migrations/
-logs/debug.log
+
 .pytest_cache/
 venv/
 __pycache__/
